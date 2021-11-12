@@ -6,4 +6,4 @@ So ended up to update FFMPEG instead of changing camera codec. Here the automati
 
 If your installation is not the default installation used by Bluecherry installer, just change all `/usr/lib/bluecherry` to your installation folder in the bash file.
 
-**NB: Bluecherry didn't use your system FFMPEG but the binary of FFMPEG inside bluecherry installion folder.**
+**NB: Bluecherry don't use your system FFMPEG but the binary of FFMPEG inside bluecherry installion folder.**
