@@ -6,7 +6,7 @@ So ended up to update FFMPEG instead of changing camera codec. Here the automati
 
 Execute the command bellow (need sudo right)
 
-1. `$ curl -O https://raw.githubusercontent.com/tonywtrd/bluecherry2-ffmpeg-update/main/bluecherry2-ffmpeg-update.sh && bluecherry2-ffmpeg-update.sh`
+1. `$ curl -O https://raw.githubusercontent.com/tonywtrd/bluecherry2-ffmpeg-update/main/bluecherry2-ffmpeg-update.sh && bash bluecherry2-ffmpeg-update.sh`
 
 If your installation is not the default installation used by Bluecherry installer, just change all `/usr/lib/bluecherry` to your installation folder in the bash file.
 
